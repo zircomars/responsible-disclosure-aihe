@@ -6,11 +6,11 @@ Yrityksen saattavat ottaa tietoturvan vakavasti, että on olemassa käytäntöj�
 
 Tämä on tärkeä osa – lainsäädäntö ja standardit ovat vastuullisen tietoturvaviestinnän ja Responsible Disclosure -toiminnan selkäranka. 🏛️🔐
 
-⚖️ 1. GDPR (General Data Protection Regulation)
-📌 Mihin liittyy?
-➡️ Henkilötietojen käsittelyyn EU:ssa  
-➡️ Pakolliset ilmoitukset tietomurroista  
-✅ Mitä vaatii?
+⚖️ 1. GDPR (General Data Protection Regulation) <br>
+📌 Mihin liittyy? <br>
+➡️ Henkilötietojen käsittelyyn EU:ssa   <br>
+➡️ Pakolliset ilmoitukset tietomurroista   <br>
+✅ Mitä vaatii? <br>
 
 | Tilanne                                | Velvollisuus                                                                                     |
 |----------------------------------------|-------------------------------------------------------------------------------------------------|
