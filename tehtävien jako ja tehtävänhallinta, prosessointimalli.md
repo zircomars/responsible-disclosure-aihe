@@ -8,6 +8,8 @@ Tämä pätee aina, kun löydetään jotakin, mikä voi vaarantaa tietoturvaa - 
 
 Nyt katsotaan seuraavista koskien OWASP (top 10 haavoittuvuudet), OSINT (avoimien lähteiden tiedonhankinta), ja pätee myös Brute Force - testaus (esim. Salasanojen murtautumiset järjestelmän pääsemiset) ja näiden yhteyden noudattamisen koskievia ettistä ja juridista kaavaa.
 
+Periaatteessa on enemmin tehtävän jakoa ja vastuun jakamista, että suoritettaan enemmin tiimityötä.
+
 ---
 
 ## 🔐 Responsible Disclosure & tietoturvatestaus – mitä pitää tietää?
