@@ -193,13 +193,11 @@ Tämä usein tapahtuu, kun B-yritys toimii välittäjänä. Esimerkiksi A-yritys
 
 Pieni visuaalinen malli, joka havainnollistaa vastuuketjun ja viestintäprosessin Responsible Disclosure -tilanteessa, erityisesti silloin, kun yritys toimii välikätenä (toimittajana) asiakkaan ja loppukäyttäjän välillä.
 
+![alt text](./kuvat/about_security_policy_figure1.png)
 
-
-# 📌 Avainkohdat vastuuketjussa – Responsible Disclosure
+![alt text](./kuvat/about_security_policy_figure2.jpg)
 
 Tämän ylemmän kuvan havaintoa ja siitä vähä kuvausta:
-
----
 
 ## 📌 Avainkohdat vastuuketjussa:
 
@@ -208,8 +206,6 @@ Tämän ylemmän kuvan havaintoa ja siitä vähä kuvausta:
 - **Asiakas (C):** Arvioi, miten haavoittuvuus vaikuttaa heidän järjestelmiinsä ja asiakkailleen.
 - **Loppukäyttäjä (D):** Saattaa olla suoraan yhteydessä ilmoittajaan tai toimittajaan saadakseen lisätietoja.
 - **Kolmas osapuoli (E):** Voi olla mukana, jos haavoittuvuus vaikuttaa useisiin järjestelmiin tai ekosysteemeihin.
-
----
 
 ## 📌 Tärkeitä huomioita:
 
