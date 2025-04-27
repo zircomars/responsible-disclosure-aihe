@@ -4,46 +4,6 @@ Responsible Disclosure -käytäntö tarkoittaa vastuullista tapaa ilmoittaa tiet
 
 Yritykset, jotka ottavat tietoturvan vakavasti, voivat luoda ohjeistuksia ja periaatteita tämän vastuullisen ilmoittamisen mukaisesti.
 
-# Sisällysluettelo
-
-1. [🔐 Responsible Disclosure -käytäntö](#🔐-responsible-disclosure--käytäntö)
-    - [Mitä Responsible Disclosure tarkoittaa?](#mitä-responsible-disclosure-tarkoittaa)
-    - [Periaatteet ja vastuullisuus](#periaatteet-ja-vastuullisuus)
-    - [Mikä rooli eri henkilöillä on?](#mikä-rooli-eri-henkilöillä-on)
-2. [🧪 Sisäinen penetraatiotestaus ja eettinen hakkerointi](#🧪-sisäinen-penetraatiotestaus-ja-eettinen-hakkerointi)
-    - [Tavoitteet ja menetelmät](#tavoitteet-ja-menetelmät)
-    - [Testauksen hallinta ja luvanvaraisuus](#testauksen-hallinta-ja-luvanvaraisuus)
-3. [💼 Käytännöt vaihtelevat yrityksittäin](#💼-käytännöt-vaihtelevat-yrityksittäin)
-    - [Kuinka organisaatiot eroavat toisistaan](#kuinka-organisaatiot-eroavat-toisistaan)
-    - [Sisäiset testit ja ulkoiset toimijat](#sisäiset-testit-ja-ulkoiset-toimijat)
-4. [🛠️ Viestintävälineet & Responsible Disclosure](#🛠️-viestintävälineet--responsible-disclosure)
-    - [Miksi viestintä on kriittistä?](#miksi-viestintä-on-kriittistä)
-    - [Väärinkäytön riskit ja niiden välttäminen](#väärinkäytön-riskit-ja-niiden-välttäminen)
-5. [💬 Yleisiä viestintäkanavia yrityksissä](#💬-yleisiä-viestintäkanavia-yrityksissä)
-    - [Viestintävälineet, kuten Teams, sähköposti ja tikettijärjestelmät](#viestintävälineet-kuten-teams-sähköposti-ja-tikettijärjestelmät)
-    - [Kanavien käyttö Responsible Disclosure -tilanteissa](#kanavien-käyttö-responsible-disclosure--tilanteissa)
-6. [📍 Oikean kanavan tunnistaminen](#📍-oikean-kanavan-tunnistaminen)
-    - [Ohjeistukset ja varmuus viestinnässä](#ohjeistukset-ja-varmuus-viestinnässä)
-    - [Miten toimia epävarmoissa tilanteissa](#miten-toimia-epävarmoissa-tilanteissa)
-7. [📝 Esimerkki Responsible Disclosure -ohjeesta](#📝-esimerkki-responsible-disclosure--ohjeesta)
-    - [Selkeät ohjeet ilmoittamiseen](#selkeät-ohjeet-ilmoittamiseen)
-    - [Turvallisuus ja tehokas tiedonkulku](#turvallisuus-ja-tehokas-tiedonkulku)
-8. [✅ Responsible Disclosure & Viestintä](#✅-responsible-disclosure--viestintä)
-    - [Vastuullisuus eri rooleissa](#vastuullisuus-eri-rooleissa)
-    - [Kanavien käyttö ilmoittamiseen](#kanavien-käyttö-ilmoittamiseen)
-    - [Akuuttien tilanteiden käsittely](#akuuttien-tilanteiden-käsittely)
-9. [🏛️ Vaikutus ISO 27000 -sarjaan ja GDPR:ään](#🏛️-vaikutus-iso-27000--sarjaan-ja-gdprään)
-    - [Tietoturvastandardien ja sääntelyvaatimusten noudattaminen](#tietoturvastandardien-ja-sääntelyvaatimusten-noudattaminen)
-10. [🛡️ Vastuullisuuden merkitys](#🛡️-vastuullisuuden-merkitys)
-    - [Tietoturvan vaikutus eri toimialoilla](#tietoturvan-vaikutus-eri-toimialoilla)
-    - [Selkeiden ohjeiden merkitys](#selkeiden-ohjeiden-merkitys)
-11. [🏢 Viestintä prosessista](#🏢-viestintä-prosessista)
-    - [Sisäisten ja ulkoisten roolien tunnistaminen](#sisäisten-ja-ulkoisten-roolien-tunnistaminen)
-    - [Dokumentointi ja turvallinen viestintä](#dokumentointi-ja-turvallinen-viestintä)
-
----
-
-
 ## 🔐 Responsible Disclosure -käytäntö
 Responsible Disclosure -käytännöllä tarkoitetaan, että jos joku (sisäinen tai ulkoinen henkilö) löytää haavoittuvuuden tai tietoturvapoikkeaman, hänen odotetaan ilmoittavan siitä vastuullisesti:
 - **Ilman vahinkoa** järjestelmille tai tiedoille.
